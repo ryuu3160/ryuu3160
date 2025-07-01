@@ -2,7 +2,9 @@
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryuu3160&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ryuu3160&date_format=%5BY.%5Dn.j&exclude_days=Mon&background=0D1117&ring=0074E1&fire=0074E1&currStreakNum=0074E1&sideNums=0074E1&currStreakLabel=20ADE1&sideLabels=0074E1&dates=A0A0A0&excludeDaysLabel=A0A0A0" alt="GitHub Streak" />
+  </a>
 </div>
 
 <div align="center">
